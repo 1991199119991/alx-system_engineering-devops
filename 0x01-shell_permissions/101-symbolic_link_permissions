@@ -1,2 +1,2 @@
 #!/bin/bash
--h uincent:staff - hello
+chown - h uincent:staff - hello
